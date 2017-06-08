@@ -1,0 +1,7 @@
+[package]
+name = "simplex"
+version = "0.1.0"
+authors = ["COUAILLIER Paul <paul.couaillier@laposte.net>"]
+
+[dependencies]
+reduce="0.1"
